@@ -1,2 +1,2 @@
-# PowerShell
-Collection of various PowerShell scripts. 
+# PowerShellScripts
+Collection of various PowerShell scripts I've deemed useful. 
