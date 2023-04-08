@@ -1,2 +1,2 @@
 # PowerShellScripts
-Catch-all of miscellaneous PowerShell stuff.
+Miscellaneous PowerShell stuff.
